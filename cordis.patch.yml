@@ -1,0 +1,3 @@
+- insert:
+    - id: spacebar-goldenflow
+      name: '@local/spacebar-goldenflow'
